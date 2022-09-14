@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\УЧЕБА\\folger git\\Сишарп\\Лекция 1\\Задача 2\\Задача 2.csproj",
+      "projectUniqueName": "D:\\УЧЕБА\\folger git\\Сишарп\\Лекция_1\\Задача_2\\Задача 2.csproj",
       "projectName": "Задача 2",
-      "projectPath": "D:\\УЧЕБА\\folger git\\Сишарп\\Лекция 1\\Задача 2\\Задача 2.csproj",
+      "projectPath": "D:\\УЧЕБА\\folger git\\Сишарп\\Лекция_1\\Задача_2\\Задача 2.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "D:\\УЧЕБА\\folger git\\Сишарп\\Лекция 1\\Задача 2\\obj\\",
+      "outputPath": "D:\\УЧЕБА\\folger git\\Сишарп\\Лекция_1\\Задача_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
